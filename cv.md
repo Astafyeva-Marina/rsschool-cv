@@ -22,8 +22,8 @@ return  a * b
 ## Experience ##
 2020-2022 Stroitelny Dvor Ltd. Active Purchasing Manager  
 ## Education ##
-- 2009-2013 Samara State University specialty Social Pedagogy
-- 2023 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+2009-2013 Samara State University specialty Social Pedagogy  
+2023 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
 ## Languages ##
-- Russian - native speaker  
-- English - A2
+Russian - native speaker  
+English - A2
