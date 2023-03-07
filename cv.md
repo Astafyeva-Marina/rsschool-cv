@@ -13,3 +13,17 @@ I am result oriented. I love solving complex problems. Easy to learn new skills.
 - Web-development: HTML, CSS, JavaScript (Basics)
 - Version control: Git, GitHub
 - Graphics: Figma, Photoshop
+## Code example ##
+```
+function multiply(a, b){
+return  a * b
+}
+```
+## Experience ##
+2020-2022 Stroitelny Dvor Ltd. Active Purchasing Manager  
+## Education ##
+- 2009-2013 Samara State University specialty Social Pedagogy
+- 2023 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+## Languages ##
+- Russian - native speaker  
+- English - A2
