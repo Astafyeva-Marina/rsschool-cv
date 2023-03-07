@@ -10,9 +10,9 @@ I am currently studying the course JAVASCRIPT/FRONT-END 2023Q1 stage#1 from The 
 I plan to learn Angular in the future.  
 I am result oriented. I love solving complex problems. Easy to learn new skills.  
 ## Skills ##
-- Web-development: HTML, CSS, JavaScript (Basics)
-- Version control: Git, GitHub
-- Graphics: Figma, Photoshop
+Web-development: HTML, CSS, JavaScript (Basics)  
+Version control: Git, GitHub  
+Graphics: Figma, Photoshop  
 ## Code example ##
 ```
 function multiply(a, b){
